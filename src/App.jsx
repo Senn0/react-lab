@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
+{/*20.09.23*/}
 
 {/*7*/}
 
@@ -159,6 +160,8 @@ function App() {
   </>
 }
 */}
+
+{/*22.09.23*/}
 
 {/*17*/}
 
@@ -431,7 +434,23 @@ function App() {
 }
 */}
 
-//Проверка обновления
+{/*33*/}
 
+{/*
+function App() {
+	function show1() {
+		alert(1);
+	}
+	
+	function show2() {
+		alert(2);
+	}
+	
+	return <div>
+		<button onClick={show1}>act1</button>
+		<button onClick={show2}>act2</button>
+	</div>;
+}
+*/}
 
 export default App;
